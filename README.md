@@ -1,3 +1,7 @@
+# Frontend Mentor - Product preview card component
+
+![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+
 # Frontend Mentor - Product preview card component solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -74,5 +78,5 @@ I feel I am not comfortable with media and typography responsiveness.and I also 
 ## Author
 
 - Website - [Stephan Duah Senkyire](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@StephanDuah](https://www.frontendmentor.io/profile/@StephanDuah)
+- Twitter - [@DuahSteph](https://www.twitter.com/@DuahSteph)
