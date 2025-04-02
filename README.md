@@ -78,5 +78,5 @@ I feel I am not comfortable with media and typography responsiveness.and I also 
 ## Author
 
 - Website - [Stephan Duah Senkyire](https://www.your-site.com)
-- Frontend Mentor - [@StephanDuah](https://www.frontendmentor.io/profile/@StephanDuah)
-- Twitter - [@DuahSteph](https://www.twitter.com/@DuahSteph)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/@StephanDuah]
+- Twitter - [https://www.twitter.com/@DuahSteph]()
