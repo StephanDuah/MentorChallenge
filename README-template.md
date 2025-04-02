@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/StephanDuah/MentorChallenge
+- Live Site URL: https://stephanduah.github.io/MentorChallenge/
 
 ## My process
 
@@ -73,6 +73,6 @@ I feel I am not comfortable with media and typography responsiveness.and I also 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Stephan Duah Senkyire](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
